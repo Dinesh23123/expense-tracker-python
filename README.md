@@ -127,3 +127,8 @@ Possible enhancements for the project:
 ## 👨‍💻 Author
 
 **Dinesh Sonawane**
+Python Developer | Backend Enthusiast  
+
+---
+
+⭐ If you found this project helpful, feel free to star the repository!
